@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|e:\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|solutionrelative:blazor_ai_app\\pages\\chat.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|e:\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|solutionrelative:blazor_ai_app\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|e:\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|solutionrelative:blazor_ai_app\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|e:\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|solutionrelative:blazor_ai_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|e:\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|solutionrelative:blazor_ai_app\\services\\openaiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|e:\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|solutionrelative:blazor_ai_app\\blazor_ai_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|e:\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|solutionrelative:blazor_ai_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|e:\\blazor_ai_app\\blazor_ai_app\\blazor_ai_app\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7DC7ECD5-82B3-44C7-AC7C-4D80DFFFCF2A}|Blazor_AI_APP\\Blazor_AI_APP.csproj|solutionrelative:blazor_ai_app\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Blazor_AI_APP\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "Blazor_AI_APP\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T21:01:23.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.razor",
+              "DocumentMoniker": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Components\\App.razor",
+              "RelativeDocumentMoniker": "Blazor_AI_APP\\Components\\App.razor",
+              "ToolTip": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Components\\App.razor*",
+              "RelativeToolTip": "Blazor_AI_APP\\Components\\App.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T21:00:36.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Blazor_AI_APP\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Blazor_AI_APP\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T11:56:09.644Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Chat.razor",
+              "DocumentMoniker": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Pages\\Chat.razor",
+              "RelativeDocumentMoniker": "Blazor_AI_APP\\Pages\\Chat.razor",
+              "ToolTip": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Pages\\Chat.razor*",
+              "RelativeToolTip": "Blazor_AI_APP\\Pages\\Chat.razor*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T11:52:37.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Program.cs",
+              "RelativeDocumentMoniker": "Blazor_AI_APP\\Program.cs",
+              "ToolTip": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Program.cs",
+              "RelativeToolTip": "Blazor_AI_APP\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:48:12.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OpenAIService.cs",
+              "DocumentMoniker": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Services\\OpenAIService.cs",
+              "RelativeDocumentMoniker": "Blazor_AI_APP\\Services\\OpenAIService.cs",
+              "ToolTip": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Services\\OpenAIService.cs",
+              "RelativeToolTip": "Blazor_AI_APP\\Services\\OpenAIService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T11:47:58.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blazor_AI_APP.csproj",
+              "DocumentMoniker": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP.csproj",
+              "RelativeDocumentMoniker": "Blazor_AI_APP\\Blazor_AI_APP.csproj",
+              "ToolTip": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP.csproj",
+              "RelativeToolTip": "Blazor_AI_APP\\Blazor_AI_APP.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-17T11:43:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\appsettings.json",
+              "RelativeDocumentMoniker": "Blazor_AI_APP\\appsettings.json",
+              "ToolTip": "E:\\Blazor_AI_APP\\Blazor_AI_APP\\Blazor_AI_APP\\appsettings.json",
+              "RelativeToolTip": "Blazor_AI_APP\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-17T11:45:24.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
