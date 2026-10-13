@@ -13,7 +13,6 @@ public class OpenAIService
         _http = new HttpClient();
         _apiKey = config["OpenAI:ApiKey"];
 
-        Console.WriteLine("🔐 API KEY LOADED: " + (_apiKey?.Substring(0, 5) ?? "NOT FOUND"));
     }
 
     public async Task<string> AskAsync(string prompt)

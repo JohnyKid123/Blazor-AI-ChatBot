@@ -1,0 +1,10 @@
+# Local editor and build outputs
+.vs/
+**/bin/
+**/obj/
+
+# Local secrets and overrides
+.env
+.env.*
+**/appsettings.Local.json
+**/appsettings.*.local.json
