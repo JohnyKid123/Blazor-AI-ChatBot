@@ -32,6 +32,3 @@ app.MapRazorComponents<App>()
     .AddInteractiveServerRenderMode();
 
 app.Run();
-
-
-//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
